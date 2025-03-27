@@ -34,34 +34,54 @@
 
 ### 0-1. 질병 문제로 농장주는 어려움을 겪었을까?
 
-사회적인 변화, 그 중에서 아프리카 돼지 열병과, 구제역과 같은 축산 질병은 농장주에게 큰 피해를 주었다. <br/>
-축산 질병은 농장주에게 어느정도의 피해를 준 것일까? <br/>
+사회적인 변화, 그 중에서 아프리카 돼지 열병과, 구제역과 같은 축산 질병은 농장주에게 큰 피해를 주었습니다. <br/>
+축산 질병은 과연 농장주에게 어느정도의 피해를 준 것일까요? <br/>
+<br/>
+알아보기 위해 데이터 분석을 해보았습니다. 
 
-| **이미지** | 농장 순수익과 질병의 반비례 관계  그래프 |
+![도축가와 전염병 관계](https://private-user-images.githubusercontent.com/189529881/427342270-dde7e128-b6ac-48db-80b9-727ba8965990.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNTExNTEsIm5iZiI6MTc0MzA1MDg1MSwicGF0aCI6Ii8xODk1Mjk4ODEvNDI3MzQyMjcwLWRkZTdlMTI4LWI2YWMtNDhkYi04MGI5LTcyN2JhODk2NTk5MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyN1QwNDQ3MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMjU5ZTU0OTVjOGY1MjcxNjRjNjQ5NWI4NTlmYmFkNTQwOWVlYWUxOTBlMjc4ODA0MTc0YzI1ZWIyOWZkNGIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-epcxsZGTwBRejofGtkL8rUDwN3YaU6EXTTRKdUcPTQ)
 
 출처 : 농림축산식품부 가축질병 발생현황, KOSIS 통계
 
-이미지를 보면 농장의 순수익이 2019년과 2023년에 낮아진 것을 확인할 수 있다.<br/>
-하지만 그 해의 질병 그래프는 높아진 것을 볼 수 있다. <br/>
-즉 질병 유행 수준과 농장 순수익은 반비례라는 것을 확인 할 수 있는데, <br/>
-이러한 결과는 축산 질병의 농장에 아주 크게 악영향을 준다고 볼 수 있다.
+위 그래프는 전염병과 도축가 추이를 나타낸 그래프입니다. <br/>
+전염병이 높을 땐 도축가가 낮아지고, 전염병이 낮을 땐 도축가가 높아지는 양상을 보입니다. <br/>
+즉 전염병과 도축가는 반비례 관계를 갖고 있다는 것을 확인했습니다. <br/>
 
-**결론 : 질병 문제는 농장주에게 큰 혼란을 야기한다**
+![수익과 전염병 관계](https://private-user-images.githubusercontent.com/204112513/427348744-74efc992-bc7b-4e14-b88f-6f597ca62973.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNTE2NjAsIm5iZiI6MTc0MzA1MTM2MCwicGF0aCI6Ii8yMDQxMTI1MTMvNDI3MzQ4NzQ0LTc0ZWZjOTkyLWJjN2ItNGUxNC1iODhmLTZmNTk3Y2E2Mjk3My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyN1QwNDU2MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NDQ4Njk4YWQwNmRjZDM2NmE5MDdhMGNlOTM2NDkwM2I3ZDBlZjNjYjIyM2E3Y2VjNGIwNzBlMTY1YmU2ZjAwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.OTllCDqTAJr1ZUGC_QVM1gK_KEEqh-UT1zEP2HTC3B4)
+
+위 그래프는 전염병(아프리카 돼지 열병, 구제역) 발생 건수와 순수익 추이를 나타낸 그래프입니다. <br/>
+그래프를 보면 농장의 순수익이 2019년과 2023년에 낮아진 것을 확인할 수 있습니다.<br/>
+하지만 그 해의 질병 그래프는 높아진 것을 확인했습니다. <br/>
+<br/>
+즉 질병 유행 수준과 농장 순수익은 반비례라는 것을 확인 할 수 있는데, <br/>
+이러한 결과는 축산 질병이 농장에게 악영향을 크게 준다고 볼 수 있습니다.
+
+**결론 : 질병 문제는 농장주에게 피해를 야기함**
 
 ### 0-2. 옥수수 값의 변화가 농장주에게 끼치는 영향이 있을까?
 
-다른 사회적인 요인으로는 곡물 가격의 변동이 있다. <br/>
-특히 옥수수는 돼지 시장에 영향을 많이 끼치는데, 돼지 사료의 90프로 이상은 옥수수이기 때문이다. <br/>
-그럼 주 사료 재료인 옥수수 값의 변화는 농장주에게 어떠한 영향을 미칠까?
+다른 사회적인 요인으로는 곡물 가격의 변동이 있습니다. <br/>
+특히 옥수수는 양돈 축산 시장에 영향을 많이 끼치는데, 돼지 사료의 90프로 이상은 옥수수이기 때문입니다. <br/>
+그럼 주 사료 재료인 옥수수 값의 변화는 농장주에게 과연 얼마나 영향을 미칠까요?<br/>
+<br/>
+데이터 분석을 통해서 알아보겠습니다.
 
-| **이미지** | 옥수수 값과, 도매가 그래프
+![옥수수와 사료비 관계](https://private-user-images.githubusercontent.com/189529881/427342267-d2810be5-3aae-45a6-84a7-6b47f5839444.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNTA2MzEsIm5iZiI6MTc0MzA1MDMzMSwicGF0aCI6Ii8xODk1Mjk4ODEvNDI3MzQyMjY3LWQyODEwYmU1LTNhYWUtNDVhNi04NGE3LTZiNDdmNTgzOTQ0NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyN1QwNDM4NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NTU3NDc1OWZjZDY1NjZiOTFhNTM4MmU2YTdmZGE0ODA2NWEyMDU0YjQwNjBjNDg4Y2VkOWQzZDQ1ZGE2ZmJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6EFiKPTS4hgRaweuA-VyUWC-FfBJNSxGHqWV23JiC74)
 
-사진은 옥수수 가격 그래프와, 도매가 가격 그래프이다.<br/>
-옥수수의 가격이 오르면, 얼마 뒤에 도매가 가격이 오르는(후반영)되는 모습을 보이고 있다. <br/>
-즉 옥수수 값의 상승은 돼지고기 값 상승에도 영향을 미친다는 것이다. <br/>
-따라서 농장주는 높아진 사료값을 매꾸기 위해 심리적인 압박을 받을 수 있다.
+그래프는 옥수수와 사료값 관계를 나타낸 그래프입니다. <br/>
+옥수수 값과 사료값은 서로 비례관계를 나타내고 있습니다.
 
-**결론 : 옥수수 값 변동은 농가 운영에 압박을 줄 수 있다.**
+![도축가와 사료비 추이](https://private-user-images.githubusercontent.com/189529881/427320829-f70c13cb-42ea-48e2-9fca-d5a02ff677b6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNTA2MzEsIm5iZiI6MTc0MzA1MDMzMSwicGF0aCI6Ii8xODk1Mjk4ODEvNDI3MzIwODI5LWY3MGMxM2NiLTQyZWEtNDhlMi05ZmNhLWQ1YTAyZmY2NzdiNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyN1QwNDM4NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMGU1ZWJlYjIyODA1M2U0OTdhYWE2OGFlYmZlZDRiNzljMTA2ZjM3NDZhMjVlMTg4NDZhOGQwYTY4NjBlYWUzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Y4D6sN6JFrYm8otLF0LAXdeMfL9kunmv-hyEnCQy6Wc)
+
+
+이번 그래프는 사료비와 도축가 추이를 나타낸 그래프입니다.<br/>
+사료비 그래프와 도축가 그래프가 상당히 비슷한 양상을 나타내는 것을 볼 수 있습니다. <br/>
+<br/>
+즉 옥수수 값의 상승은 사료비 상승과 연관되어 있고, 돼지고기 값 상승에도 영향을 미치는 것을 확인했습니다. <br/>
+<br/>
+따라서 농장주는 높아진 옥수수 값으로 인해 농장 운영에 압박을 받을 수 있습니다.
+
+**결론 : 옥수수 값 변동은 농장 운영에 압박을 줄 수 있음.**
 
 ### 0-3. 생각해보기
 내용 내용
@@ -72,17 +92,19 @@
 내용 내용 내용
 
 ### 0-결론
-따라서 사회적인 변화(곡물 값 상승, 질병 문제)는 농가 운영에 어려움을 야기할 수 있습니다. <br/>
+따라서 사회적인 변화(질병 문제, 곡물 값 상승)는 농가 운영에 어려움을 야기할 수 있다는 사실을 확인했습니다. <br/>
 이러한 외부적인 요소로부터 최대한 농장주들을 보호하고, <br/>
-결과를 예상할 수 있도록 솔루션이 필요합니다. <br/>
+결과를 예상할 수 있도록 솔루션이 필요로 합니다. <br/>
 
-데이터 기반 솔루션으로 '**양돈 관리 서비스:PIG SCOUTER**'를 제안합니다. <br/>
+우리는 데이터 기반 솔루션으로 '**양돈 관리 서비스:PIG SCOUTER**'를 제안하고자 합니다. <br/>
 양돈 관리를 위한 주요 핵심지표(PSY, MSY, 분만율, 평균실상)를 제공하고, <br/>
-사료값과 운영비, 수익 예상치를 계산해줍니다.
+사료값과 운영비, 수익 예상치를 계산해주는 서비스입니다.
 
 ## 1. 서비스를 위한 필요 데이터 수집
 
 ### 1-1. 사용자 요구사항 정의 (USER REQUIREMENTS)
+우리는 배경조사를 통해 농장주(사용자)의 상황을 알게 되었습니다. <br/>
+농장주의 현 상황을 바탕으로 요구사항을 정의해보았습니다. 
 | No. | 요구사항 |
 |:---:|---|
 |UR_01|아래와 같은 농장 정보를 한눈에 모니터링 할 수 있게 해주세요. <br/>- 현재 총 돼지 수 <br/> - 월별 사료 급여량 <br/> - 월별 농장 운영비용 <br/> - 월별 수익 예측  |
@@ -95,6 +117,9 @@
 |UR_08|우리 농장(혹은 앞으로 설립할 농장)이 월 얼마정도 수익이 나올지 계산해주었으면 좋겠어요. |
 
 ### 1-2. 시스템 요구사항 정의 (SYSTEM REQUIREMENTS)
+
+시용자 요구사항을 바탕으로 시스템 요구사항을 정의해보았습니다.
+
 | No. | 기능 이름 | 기능 설명 |
 |:---:|---|---|
 |SR_01|농장정보 <br/> 시각화 기능 <br> (대쉬보드) | 농장 정보를 직관적으로 파악할 수 있도록 시각화하여 제공 <br/> - 현재 총 돼지 수 <br/> - 월별 농장 운영비용 <br/> - 월별 수익 예측 <br/> - 월별 사료 급여량 <br/> - 출하 시기 추천
@@ -104,6 +129,7 @@
 |SR_05|수익 <br/> 계산기|농장규모와 돼지 평균 무게에 따른 수익 예측|
 
 ### 1-3. 수집 데이터 정리 (COLLECT)
+시스템 요구사항을 바탕으로, 저희가 수집한 데이터와 저장된 DB 테이블명을 정리했습니다.
 | SR No. | 기능 | 데이터 | DB 테이블 or 파일명 |
 |:---:|---|---|---|
 |SR_02_01| MSY 출력 | | |
@@ -118,6 +144,8 @@
 
 
 ## 2. 서비스 기획 (STORYBOARD)
+
+수집된 데이터를 바탕으로 기획된 서비스입니다.
 
 [스토리보드 링크](https://www.figma.com/design/hiTLHm7gLKHKqU7hOyTuaZ/PIG-SCOUTER?node-id=62-2613&t=yw4IvjsdOEWmJBgv-1)
 
@@ -149,4 +177,5 @@
 마지막으로 합계 정보를 계산하여 줍니다.
 
 ![page5](https://private-user-images.githubusercontent.com/204112513/427340004-a808f08f-e393-40d6-be88-2efa27be9978.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNDkxMTMsIm5iZiI6MTc0MzA0ODgxMywicGF0aCI6Ii8yMDQxMTI1MTMvNDI3MzQwMDA0LWE4MDhmMDhmLWUzOTMtNDBkNi1iZTg4LTJlZmEyN2JlOTk3OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyN1QwNDEzMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MWI4NDQ4Zjg5ZTBhNWY5ZjQ5MWNkOWZiYmM5N2IyMDI5Nzc1N2RiYTAwNjlkOGY4M2IzYjA1OGY2YTc3OTEzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Sr0BfYyR-7U-egwi1IboWJJwU4bU6TLcoKDb7mxzjtE)
-**수익 계산기**
+**수익 계산기** <br/>
+돼지 수(농장규모)를 입력시 예상 수익을 계산하여 줍니다.
