@@ -151,7 +151,7 @@ PSY 값이 높다는 것은 생산성이 높다는 것을 의미하므로, 양�
 
 ### 1-3. 필요 데이터 다이어그램 만들기 (ER DIAGRAM)
 
-|이미지|
+![Image](https://github.com/user-attachments/assets/471bae27-944e-478f-8848-e11fd1fba4b6)
 
 ### 1-4. 수집 데이터 정리 (COLLECT)
 시스템 요구사항을 바탕으로, 저희가 수집한 데이터와 저장된 DB 테이블명을 정리했습니다.
