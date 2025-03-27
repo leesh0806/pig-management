@@ -39,8 +39,7 @@
 <br/>
 알아보기 위해 데이터 분석을 해보았습니다. 
 
-![도축가와 전염병 관계](https://private-user-images.githubusercontent.com/189529881/427342270-dde7e128-b6ac-48db-80b9-727ba8965990.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNTExNTEsIm5iZiI6MTc0MzA1MDg1MSwicGF0aCI6Ii8xODk1Mjk4ODEvNDI3MzQyMjcwLWRkZTdlMTI4LWI2YWMtNDhkYi04MGI5LTcyN2JhODk2NTk5MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyN1QwNDQ3MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMjU5ZTU0OTVjOGY1MjcxNjRjNjQ5NWI4NTlmYmFkNTQwOWVlYWUxOTBlMjc4ODA0MTc0YzI1ZWIyOWZkNGIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-epcxsZGTwBRejofGtkL8rUDwN3YaU6EXTTRKdUcPTQ)
-
+![도축가와 전염병 관계](https://github.com/user-attachments/assets/dde7e128-b6ac-48db-80b9-727ba8965990)
 출처 : 농림축산식품부 가축질병 발생현황, KOSIS 통계
 
 위 그래프는 전염병과 도축가 추이를 나타낸 그래프입니다. <br/>
@@ -48,6 +47,7 @@
 즉 전염병과 도축가는 반비례 관계를 갖고 있다는 것을 확인했습니다. <br/>
 
 ![수익과 전염병 관계](https://github.com/user-attachments/assets/74efc992-bc7b-4e14-b88f-6f597ca62973)
+출처 : 농림축산식품부 가축질병 발생현황, KOSIS 통계
 
 위 그래프는 전염병(아프리카 돼지 열병, 구제역) 발생 건수와 순수익 추이를 나타낸 그래프입니다. <br/>
 그래프를 보면 농장의 순수익이 2019년과 2023년에 낮아진 것을 확인할 수 있습니다.<br/>
@@ -66,12 +66,12 @@
 <br/>
 데이터 분석을 통해서 알아보겠습니다.
 
-![옥수수와 사료비 관계](https://private-user-images.githubusercontent.com/189529881/427342267-d2810be5-3aae-45a6-84a7-6b47f5839444.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNTA2MzEsIm5iZiI6MTc0MzA1MDMzMSwicGF0aCI6Ii8xODk1Mjk4ODEvNDI3MzQyMjY3LWQyODEwYmU1LTNhYWUtNDVhNi04NGE3LTZiNDdmNTgzOTQ0NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyN1QwNDM4NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NTU3NDc1OWZjZDY1NjZiOTFhNTM4MmU2YTdmZGE0ODA2NWEyMDU0YjQwNjBjNDg4Y2VkOWQzZDQ1ZGE2ZmJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6EFiKPTS4hgRaweuA-VyUWC-FfBJNSxGHqWV23JiC74)
+![옥수수와 사료비 관계](https://github.com/user-attachments/assets/d2810be5-3aae-45a6-84a7-6b47f5839444)
 
 그래프는 옥수수와 사료값 관계를 나타낸 그래프입니다. <br/>
 옥수수 값과 사료값은 서로 비례관계를 나타내고 있습니다.
 
-![도축가와 사료비 추이](https://private-user-images.githubusercontent.com/189529881/427320829-f70c13cb-42ea-48e2-9fca-d5a02ff677b6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNTA2MzEsIm5iZiI6MTc0MzA1MDMzMSwicGF0aCI6Ii8xODk1Mjk4ODEvNDI3MzIwODI5LWY3MGMxM2NiLTQyZWEtNDhlMi05ZmNhLWQ1YTAyZmY2NzdiNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyN1QwNDM4NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMGU1ZWJlYjIyODA1M2U0OTdhYWE2OGFlYmZlZDRiNzljMTA2ZjM3NDZhMjVlMTg4NDZhOGQwYTY4NjBlYWUzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Y4D6sN6JFrYm8otLF0LAXdeMfL9kunmv-hyEnCQy6Wc)
+![도축가와 사료비 추이](https://github.com/user-attachments/assets/c281e16f-0715-4837-98a3-12e5f197d21f)
 
 
 이번 그래프는 사료비와 도축가 추이를 나타낸 그래프입니다.<br/>
@@ -188,3 +188,10 @@
 ![수익](https://github.com/user-attachments/assets/a808f08f-e393-40d6-be88-2efa27be9978)
 **수익 계산기** <br/>
 돼지 수(농장규모)를 입력시 예상 수익을 계산하여 줍니다.
+
+## Review
+| 이름 | 소감 |
+| 김지연(팀장) | |
+| 이승훈(팀원) | |
+| 박성윤(팀원) | |
+| 최원호(팀원) | |
