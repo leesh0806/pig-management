@@ -47,7 +47,7 @@
 전염병이 높을 땐 도축가가 낮아지고, 전염병이 낮을 땐 도축가가 높아지는 양상을 보입니다. <br/>
 즉 전염병과 도축가는 반비례 관계를 갖고 있다는 것을 확인했습니다. <br/>
 
-![수익과 전염병 관계](https://private-user-images.githubusercontent.com/204112513/427348744-74efc992-bc7b-4e14-b88f-6f597ca62973.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNTE2NjAsIm5iZiI6MTc0MzA1MTM2MCwicGF0aCI6Ii8yMDQxMTI1MTMvNDI3MzQ4NzQ0LTc0ZWZjOTkyLWJjN2ItNGUxNC1iODhmLTZmNTk3Y2E2Mjk3My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyN1QwNDU2MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NDQ4Njk4YWQwNmRjZDM2NmE5MDdhMGNlOTM2NDkwM2I3ZDBlZjNjYjIyM2E3Y2VjNGIwNzBlMTY1YmU2ZjAwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.OTllCDqTAJr1ZUGC_QVM1gK_KEEqh-UT1zEP2HTC3B4)
+![수익과 전염병 관계](https://github.com/user-attachments/assets/74efc992-bc7b-4e14-b88f-6f597ca62973)
 
 위 그래프는 전염병(아프리카 돼지 열병, 구제역) 발생 건수와 순수익 추이를 나타낸 그래프입니다. <br/>
 그래프를 보면 농장의 순수익이 2019년과 2023년에 낮아진 것을 확인할 수 있습니다.<br/>
@@ -153,33 +153,38 @@
 
 [스토리보드 링크](https://www.figma.com/design/hiTLHm7gLKHKqU7hOyTuaZ/PIG-SCOUTER?node-id=62-2613&t=yw4IvjsdOEWmJBgv-1)
 
-![명함](https://private-user-images.githubusercontent.com/204112513/427340978-dd20d22f-1109-4083-9e20-52f593233fd2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNDkzNjgsIm5iZiI6MTc0MzA0OTA2OCwicGF0aCI6Ii8yMDQxMTI1MTMvNDI3MzQwOTc4LWRkMjBkMjJmLTExMDktNDA4My05ZTIwLTUyZjU5MzIzM2ZkMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyN1QwNDE3NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MjI3MjI0ZDQ5MjRiY2Q5MTQ1MzE3YmNjNTNlYjE2YzljZjViZWU0N2FlZTc3OTU3NTg3NjBkYWFmNTk1OTYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.b42eqkJ58GSzxknfaWKObcegxXW1PUXHn2JY2oosUtU)
+![명함](https://github.com/user-attachments/assets/dd20d22f-1109-4083-9e20-52f593233fd2)
+
 **명함 이미지** <br/>
 메인 컬러를 주황색으로 하였는데, 돼지 농장의 따뜻하고 생동감 있는 분위기를 표현하면서도 <br/>
 흙과 자연을 연상시키는 색감으로 농장환경과 잘 어우러지게 구성하였습니다.<br/>
 돼지의 건강한 성장과, 농장의 활력을 동시에 상징하며, 친근하면서 신뢰감을 주는 색상입니다.
 
-![page1](https://private-user-images.githubusercontent.com/204112513/427340005-a4ddff3d-833e-4855-931b-f6faea058066.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNDkxMTMsIm5iZiI6MTc0MzA0ODgxMywicGF0aCI6Ii8yMDQxMTI1MTMvNDI3MzQwMDA1LWE0ZGRmZjNkLTgzM2UtNDg1NS05MzFiLWY2ZmFlYTA1ODA2Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyN1QwNDEzMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xODAzYWY0MTkzNzc4ODEzZmFjZjBjY2U4OWZlZjRmOGI4OTQ5ZTdmODZmZWU1MTJjZTE4NjhhMTFlMTAwYzM5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._ggaBUcyDPG1e-cIOojPf7KO0L-GOfFbamifNd4Li88)
+![대쉬보드](https://github.com/user-attachments/assets/a4ddff3d-833e-4855-931b-f6faea058066)
+
 **대시보드**<br/>
 농장 정보를 한눈에 볼 수 있는 대시보드입니다. <br/>
-총 돼지 수를 입력하면,월별 사료 필요량과 운영비용, 예상 수익을 계산하여 줍니다.<br/>
+총 돼지 수를 입력하면,월별 사료 필요량과 운영비용, 예상 수익을 계산하여 줍니다
 
-![page2](https://private-user-images.githubusercontent.com/204112513/427340002-6bf03cd5-4866-419f-89f4-4e65ae909e01.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNDkxMTMsIm5iZiI6MTc0MzA0ODgxMywicGF0aCI6Ii8yMDQxMTI1MTMvNDI3MzQwMDAyLTZiZjAzY2Q1LTQ4NjYtNDE5Zi04OWY0LTRlNjVhZTkwOWUwMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyN1QwNDEzMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NWU4ZjViOWVjZDc2YzA5N2Q3ZTQyNWMzNmM1Mzc1MmJlMjViZGFmYzZkMDNkNDU3YzFmMjU4ZGFiMTI3Y2U4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tp-Jxgl5zwNkrLPOXzH8oD_K6_lRhPfx5r5o_-SuGoE)
+![핵심지표](https://github.com/user-attachments/assets/6bf03cd5-4866-419f-89f4-4e65ae909e01)
+
 **핵심지표 산출기**<br/>
 농장 관리에 필요한 핵심 지표, MSY, PSY, 분만율, 평균실산을 계산하여 줍니다.<br/>
 전체 농장 기준으로도 평균치를 나타내주고 <br/>
 요구 정보를 입력시 개인 농장에도 맞게 지표를 산출하여줍니다.
 
-![page3](https://private-user-images.githubusercontent.com/204112513/427340000-5655c240-87d9-4377-b083-d08f15764646.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNDkxMTMsIm5iZiI6MTc0MzA0ODgxMywicGF0aCI6Ii8yMDQxMTI1MTMvNDI3MzQwMDAwLTU2NTVjMjQwLTg3ZDktNDM3Ny1iMDgzLWQwOGYxNTc2NDY0Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyN1QwNDEzMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZTUyZWNkMzVkNWVkMjg4M2RlYzM4Njc1ZmMxZGNlYWNhZGU4MzJjNmI5YWQwMjY1ZDMxZWQ5NzU3NGU0NDI3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.N9U3IzutAbfocM2UcJAKbVSIXGoMvDRBFe1CORWEyHU)
+![사료비](https://github.com/user-attachments/assets/5655c240-87d9-4377-b083-d08f15764646)
+
 **사료비 계산기**<br/>
 돼지 수(농장규모)를 입력시 예상 사료비용을 계산하여 줍니다. 
 
-![page4](https://private-user-images.githubusercontent.com/204112513/427340009-f28f4ccc-722f-4bd5-92bf-60affe0a74af.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNDkxMTMsIm5iZiI6MTc0MzA0ODgxMywicGF0aCI6Ii8yMDQxMTI1MTMvNDI3MzQwMDA5LWYyOGY0Y2NjLTcyMmYtNGJkNS05MmJmLTYwYWZmZTBhNzRhZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyN1QwNDEzMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYzRhYTQ4NDA5Y2U0MzVlNzI3NzRmMDA0NTc4MGQ2Yjk1OTFiNDcwZTE5ZDI1NmNhZGQ2Y2FmODZlYmYyYWQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.c0vRR-PNmPuFpr7uSr4s5jWAIrXR4ma16OvVRT-VAzA)
+![운영비](https://github.com/user-attachments/assets/f28f4ccc-722f-4bd5-92bf-60affe0a74af)
+
 **운영비 계산기** <br/>
 돼지 수(농장규모)를 입력시 예상 운영비용을 계산하여 줍니다.<br/>
 수도광열비, 농구비, 영농시설비, 기타재료비, 차입금이자, 토지임차료, 고용노동비, 분뇨처리비, 생산관리비, 기타비용 을 계산해주고, <br/>
 마지막으로 합계 정보를 계산하여 줍니다.
 
-![page5](https://private-user-images.githubusercontent.com/204112513/427340004-a808f08f-e393-40d6-be88-2efa27be9978.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNDkxMTMsIm5iZiI6MTc0MzA0ODgxMywicGF0aCI6Ii8yMDQxMTI1MTMvNDI3MzQwMDA0LWE4MDhmMDhmLWUzOTMtNDBkNi1iZTg4LTJlZmEyN2JlOTk3OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyN1QwNDEzMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MWI4NDQ4Zjg5ZTBhNWY5ZjQ5MWNkOWZiYmM5N2IyMDI5Nzc1N2RiYTAwNjlkOGY4M2IzYjA1OGY2YTc3OTEzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Sr0BfYyR-7U-egwi1IboWJJwU4bU6TLcoKDb7mxzjtE)
+![수익](https://github.com/user-attachments/assets/a808f08f-e393-40d6-be88-2efa27be9978)
 **수익 계산기** <br/>
 돼지 수(농장규모)를 입력시 예상 수익을 계산하여 줍니다.
