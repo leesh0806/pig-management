@@ -151,7 +151,7 @@ PSY 값이 높다는 것은 생산성이 높다는 것을 의미하므로, 양�
 
 ### 1-3. 필요 데이터 다이어그램 만들기 (ER DIAGRAM)
 
-|이미지|
+![Image](https://github.com/user-attachments/assets/471bae27-944e-478f-8848-e11fd1fba4b6)
 
 ### 1-4. 수집 데이터 정리 (COLLECT)
 시스템 요구사항을 바탕으로, 저희가 수집한 데이터와 저장된 DB 테이블명을 정리했습니다.
@@ -181,32 +181,32 @@ PSY 값이 높다는 것은 생산성이 높다는 것을 의미하므로, 양�
 흙과 자연을 연상시키는 색감으로 농장환경과 잘 어우러지게 구성하였습니다.<br/>
 돼지의 건강한 성장과, 농장의 활력을 동시에 상징하며, 친근하면서 신뢰감을 주는 색상입니다.
 
-![대쉬보드](https://github.com/user-attachments/assets/a4ddff3d-833e-4855-931b-f6faea058066)
+![대쉬보드](https://github.com/user-attachments/assets/3e43d9ef-5118-412f-b85c-d8e99f9d66af)
 
 **대시보드**<br/>
 농장 정보를 한눈에 볼 수 있는 대시보드입니다. <br/>
 총 돼지 수를 입력하면,월별 사료 필요량과 운영비용, 예상 수익을 계산하여 줍니다
 
-![핵심지표](https://github.com/user-attachments/assets/6bf03cd5-4866-419f-89f4-4e65ae909e01)
+![핵심지표](https://github.com/user-attachments/assets/1c5ce062-57c2-45dd-b1ef-d99e1f9843e7)
 
 **핵심지표 산출기**<br/>
 농장 관리에 필요한 핵심 지표, MSY, PSY, 분만율, 평균실산을 계산하여 줍니다.<br/>
 전체 농장 기준으로도 평균치를 나타내주고 <br/>
 요구 정보를 입력시 개인 농장에도 맞게 지표를 산출하여줍니다.
 
-![사료비](https://github.com/user-attachments/assets/5655c240-87d9-4377-b083-d08f15764646)
+![사료비](https://github.com/user-attachments/assets/5ad69a9f-66d1-4d21-8b6b-c283f31d637b)
 
 **사료비 계산기**<br/>
 돼지 수(농장규모)를 입력시 예상 사료비용을 계산하여 줍니다. 
 
-![운영비](https://github.com/user-attachments/assets/f28f4ccc-722f-4bd5-92bf-60affe0a74af)
+![운영비](https://github.com/user-attachments/assets/1b724888-f9e5-4606-9fee-9454e0bfecfb)
 
 **운영비 계산기** <br/>
 돼지 수(농장규모)를 입력시 예상 운영비용을 계산하여 줍니다.<br/>
 수도광열비, 농구비, 영농시설비, 기타재료비, 차입금이자, 토지임차료, 고용노동비, 분뇨처리비, 생산관리비, 기타비용 을 계산해주고, <br/>
 마지막으로 합계 정보를 계산하여 줍니다.
 
-![수익](https://github.com/user-attachments/assets/a808f08f-e393-40d6-be88-2efa27be9978)
+![수익](https://github.com/user-attachments/assets/0f00497a-f1b8-4271-b400-3c2faf3549ea)
 **수익 계산기** <br/>
 돼지 수(농장규모)를 입력시 예상 수익을 계산하여 줍니다.
 
